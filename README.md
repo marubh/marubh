@@ -1,8 +1,3 @@
-<h3 align="center">I'm Maru. I'm a Geologist passionate about Frontend Development :rocket:</h3>
-
-- 🌱 I’m currently learning **FullStack Web Development with Python ("Codo a Codo" program). I'm trying to improve my HTML, CSS & JavaScript skills because I want to be a professional Frontend Developer someday.**
-
-- 📫 If you want to know more about me or ask me any question, <h2 align="center">Hello World!</h2>
 <p align="center">I'm Maru. I'm a Geologist passionate about Frontend Development :rocket:</p>
 
 <p align="justify">🌱 I’m currently learning <b>FullStack Web Development with Python</b> ("Codo a Codo" program). I'm trying to improve my HTML, CSS & JavaScript skills because I want to be a professional Frontend Developer someday.</p>
